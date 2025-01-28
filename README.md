@@ -3,6 +3,10 @@
 ## Overview
 Welcome to the Iris Flower Classification Project, where we use the power of Random Forest to classify Iris flowers into three distinct species: Setosa, Versicolor, and Virginica. This machine learning model explores the characteristics of each flower and predicts its species based on four key features. 🌼
 
+<div align="center">
+  <img src="http://miro.medium.com/max/3500/1*f6KbPXwksAliMIsibFyGJw.png" />
+</div>
+
 ## Dataset
 - Source: Iris dataset (https://www.kaggle.com/datasets/saurabh00007/iriscsv)
 - ❁ Features:Sepal length, sepal width, petal length, petal width
